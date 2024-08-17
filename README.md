@@ -1,6 +1,7 @@
 # Zhuang.RPC
 # Introduction 
-**本人学习Netty后决定自己写1个基于Netty、Zookeeper、Spring的轻量级RPC框架，收获颇丰，不过本人才疏学浅，难免有所疏漏，若有批评和建议请发到邮箱1035090753@qq.com**
+**本人学习Netty后决定自己写1个基于Netty、Zookeeper、Spring的轻量级RPC框架，收获颇丰，留此说明以作分享。
+本人才疏学浅，难免有所疏漏，若有批评和建议请发到邮箱umzhuangjiahao@gmail.com**
 
 
 # Features
@@ -83,13 +84,13 @@
 [![pACRjSJ.png](https://s21.ax1x.com/2024/08/17/pACRjSJ.png)](https://imgse.com/i/pACRjSJ)
 
 - **十万次调用结果**
-
+[![pACROW4.png](https://s21.ax1x.com/2024/08/17/pACROW4.png)](https://imgse.com/i/pACROW4)
 
 - **一百万次调用结果**
-
+[![pACRvl9.png](https://s21.ax1x.com/2024/08/17/pACRvl9.png)](https://imgse.com/i/pACRvl9)
 
 
 
 # Overview
-
+[![pACWVld.png](https://s21.ax1x.com/2024/08/17/pACWVld.png)](https://imgse.com/i/pACWVld)
 
